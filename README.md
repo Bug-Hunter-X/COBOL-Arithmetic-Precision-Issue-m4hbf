@@ -1,0 +1,1 @@
+This repository demonstrates a common error in COBOL programs related to the precision of arithmetic operations.  The `bug.cob` file shows how adding a value to a field with insufficient precision can lead to incorrect results. The `bugSolution.cob` file provides a corrected version using appropriate data types and handling of potential rounding or truncation.
